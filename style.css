@@ -12,3 +12,13 @@ body {
     height: 20px;
     background-color: blue;
 }
+
+
+.change
+{
+    background: red;
+}
+
+a{
+    margin-left: 30px;
+}
